@@ -1,2 +1,2 @@
 # SignatureCanvas
-Writing a signature using canvas with javascript 
+Writing a signature pad using canvas with javascript 
